@@ -1,9 +1,13 @@
-# front cover jekyll theme
+## Open Source Projects
+#### pwnage.py
+pwnage.py is a command line tool for interacting with the [Have I Been Pwned](https://haveibeenpwned.com/) database.
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+[https://github.com/zloether/pwnage.py](https://github.com/zloether/pwnage.py)
 
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
+
+<br><br>
+#### tweetbot.py
+tweetboy.py is a Twitter bot that is written in Python.
+
+[https://github.com/zloether/tweetbot.py](https://github.com/zloether/tweetbot.py)
