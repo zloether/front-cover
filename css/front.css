@@ -18,8 +18,6 @@ body {
     position: sticky;
     top: 0;
     left: 0;
-    /*overflow-y: scroll;
-    overflow-x:hidden;*/
 }
 #avatar {
     height: 180px;
@@ -76,7 +74,7 @@ h3 {
     /*background-color: rgba(0, 0, 0, 0.5);*/
     /*height: 100px;*/
     margin: auto;
-    width: 545px;
+    width: auto;
 }
 ul {
     list-style: none;
