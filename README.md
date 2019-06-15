@@ -3,6 +3,7 @@
 Pwnage is a command line tool for interacting with the [Have I Been Pwned](https://haveibeenpwned.com/) database.
 
 [https://github.com/zloether/pwnage](https://github.com/zloether/pwnage)
+[https://pypi.org/project/pwnage/](https://pypi.org/project/pwnage/)
 
 
 
